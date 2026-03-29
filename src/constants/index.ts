@@ -11,7 +11,6 @@ import {
   mobile,
   backend,
   creator,
-  mobilepng,
   web,
   javascript,
   typescript,
