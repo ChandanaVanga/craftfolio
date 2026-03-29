@@ -186,8 +186,8 @@ const testimonials: TTestimonial[] = [
       "Chandana consistently delivers well-structured and maintainable code. She has a strong ability to understand requirements quickly and implement efficient solutions.",
     name: "Team Lead",
     designation: "Senior Software Engineer",
-    company: "Nspira ",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    company: "Greater Than Educational Technologies",
+    image: gtet,
   },
   {
     testimonial:
@@ -195,7 +195,7 @@ const testimonials: TTestimonial[] = [
     name: "Project Manager",
     designation: "Software Development Team",
     company: "Oracle",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: oracle,
   },
   {
     testimonial:
@@ -203,7 +203,7 @@ const testimonials: TTestimonial[] = [
     name: "Senior Developer",
     designation: "Engineering Team",
     company: "Greater Than Educational Technologies",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: gtet,
   },
 ];
 
